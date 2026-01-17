@@ -1,0 +1,370 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MUHI\\Documents\\CustomToolA5\\New folder\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ED1B9D8A-B83B-EDB0-4515-3033E5156901}|SpiderPRO.csproj|c:\\users\\muhi\\documents\\customtoola5\\new folder\\spiderpro\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED1B9D8A-B83B-EDB0-4515-3033E5156901}|SpiderPRO.csproj|solutionrelative:spiderpro\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED1B9D8A-B83B-EDB0-4515-3033E5156901}|SpiderPRO.csproj|C:\\Users\\MUHI\\Documents\\CustomToolA5\\New folder\\spiderpro\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ED1B9D8A-B83B-EDB0-4515-3033E5156901}|SpiderPRO.csproj|solutionrelative:spiderpro\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED1B9D8A-B83B-EDB0-4515-3033E5156901}|SpiderPRO.csproj|C:\\Users\\MUHI\\Documents\\CustomToolA5\\New folder\\spiderpro\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ED1B9D8A-B83B-EDB0-4515-3033E5156901}|SpiderPRO.csproj|solutionrelative:spiderpro\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED1B9D8A-B83B-EDB0-4515-3033E5156901}|SpiderPRO.csproj|c:\\users\\muhi\\documents\\customtoola5\\new folder\\spiderpro\\iosdevice2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED1B9D8A-B83B-EDB0-4515-3033E5156901}|SpiderPRO.csproj|solutionrelative:spiderpro\\iosdevice2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED1B9D8A-B83B-EDB0-4515-3033E5156901}|SpiderPRO.csproj|c:\\users\\muhi\\documents\\customtoola5\\new folder\\spiderpro\\iosdevice3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED1B9D8A-B83B-EDB0-4515-3033E5156901}|SpiderPRO.csproj|solutionrelative:spiderpro\\iosdevice3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED1B9D8A-B83B-EDB0-4515-3033E5156901}|SpiderPRO.csproj|c:\\users\\muhi\\documents\\customtoola5\\new folder\\spiderpro\\nativemethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED1B9D8A-B83B-EDB0-4515-3033E5156901}|SpiderPRO.csproj|solutionrelative:spiderpro\\nativemethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED1B9D8A-B83B-EDB0-4515-3033E5156901}|SpiderPRO.csproj|c:\\users\\muhi\\documents\\customtoola5\\new folder\\spiderpro\\processkilledeventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED1B9D8A-B83B-EDB0-4515-3033E5156901}|SpiderPRO.csproj|solutionrelative:spiderpro\\processkilledeventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED1B9D8A-B83B-EDB0-4515-3033E5156901}|SpiderPRO.csproj|c:\\users\\muhi\\documents\\customtoola5\\new folder\\spiderpro\\processmonitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED1B9D8A-B83B-EDB0-4515-3033E5156901}|SpiderPRO.csproj|solutionrelative:spiderpro\\processmonitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED1B9D8A-B83B-EDB0-4515-3033E5156901}|SpiderPRO.csproj|c:\\users\\muhi\\documents\\customtoola5\\new folder\\spiderpro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED1B9D8A-B83B-EDB0-4515-3033E5156901}|SpiderPRO.csproj|solutionrelative:spiderpro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED1B9D8A-B83B-EDB0-4515-3033E5156901}|SpiderPRO.csproj|c:\\users\\muhi\\documents\\customtoola5\\new folder\\spiderpro\\win32.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED1B9D8A-B83B-EDB0-4515-3033E5156901}|SpiderPRO.csproj|solutionrelative:spiderpro\\win32.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED1B9D8A-B83B-EDB0-4515-3033E5156901}|SpiderPRO.csproj|c:\\users\\muhi\\documents\\customtoola5\\new folder\\spiderpro.helper\\dllhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED1B9D8A-B83B-EDB0-4515-3033E5156901}|SpiderPRO.csproj|solutionrelative:spiderpro.helper\\dllhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED1B9D8A-B83B-EDB0-4515-3033E5156901}|SpiderPRO.csproj|c:\\users\\muhi\\documents\\customtoola5\\new folder\\spiderpro.properties\\resources.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED1B9D8A-B83B-EDB0-4515-3033E5156901}|SpiderPRO.csproj|solutionrelative:spiderpro.properties\\resources.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED1B9D8A-B83B-EDB0-4515-3033E5156901}|SpiderPRO.csproj|c:\\users\\muhi\\documents\\customtoola5\\new folder\\spiderpro.properties\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED1B9D8A-B83B-EDB0-4515-3033E5156901}|SpiderPRO.csproj|solutionrelative:spiderpro.properties\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED1B9D8A-B83B-EDB0-4515-3033E5156901}|SpiderPRO.csproj|c:\\users\\muhi\\documents\\customtoola5\\new folder\\spiderpro\\dropshadow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED1B9D8A-B83B-EDB0-4515-3033E5156901}|SpiderPRO.csproj|solutionrelative:spiderpro\\dropshadow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED1B9D8A-B83B-EDB0-4515-3033E5156901}|SpiderPRO.csproj|C:\\Users\\MUHI\\Documents\\CustomToolA5\\New folder\\spiderpro\\dropshadow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ED1B9D8A-B83B-EDB0-4515-3033E5156901}|SpiderPRO.csproj|solutionrelative:spiderpro\\dropshadow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED1B9D8A-B83B-EDB0-4515-3033E5156901}|SpiderPRO.csproj|c:\\users\\muhi\\documents\\customtoola5\\new folder\\spiderpro\\devicedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED1B9D8A-B83B-EDB0-4515-3033E5156901}|SpiderPRO.csproj|solutionrelative:spiderpro\\devicedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED1B9D8A-B83B-EDB0-4515-3033E5156901}|SpiderPRO.csproj|c:\\users\\muhi\\documents\\customtoola5\\new folder\\spiderpro\\afcfiletype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED1B9D8A-B83B-EDB0-4515-3033E5156901}|SpiderPRO.csproj|solutionrelative:spiderpro\\afcfiletype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED1B9D8A-B83B-EDB0-4515-3033E5156901}|SpiderPRO.csproj|c:\\users\\muhi\\documents\\customtoola5\\new folder\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED1B9D8A-B83B-EDB0-4515-3033E5156901}|SpiderPRO.csproj|solutionrelative:properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED1B9D8A-B83B-EDB0-4515-3033E5156901}|SpiderPRO.csproj|c:\\users\\muhi\\documents\\customtoola5\\new folder\\spiderpro.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{ED1B9D8A-B83B-EDB0-4515-3033E5156901}|SpiderPRO.csproj|solutionrelative:spiderpro.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED1B9D8A-B83B-EDB0-4515-3033E5156901}|SpiderPRO.csproj|c:\\users\\muhi\\documents\\customtoola5\\new folder\\spiderpro\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED1B9D8A-B83B-EDB0-4515-3033E5156901}|SpiderPRO.csproj|solutionrelative:spiderpro\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED1B9D8A-B83B-EDB0-4515-3033E5156901}|SpiderPRO.csproj|c:\\users\\muhi\\documents\\customtoola5\\new folder\\properties\\resources.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED1B9D8A-B83B-EDB0-4515-3033E5156901}|SpiderPRO.csproj|solutionrelative:properties\\resources.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "iOSDevice3.cs",
+              "DocumentMoniker": "C:\\Users\\MUHI\\Documents\\CustomToolA5\\New folder\\SpiderPRO\\iOSDevice3.cs",
+              "RelativeDocumentMoniker": "SpiderPRO\\iOSDevice3.cs",
+              "ToolTip": "C:\\Users\\MUHI\\Documents\\CustomToolA5\\New folder\\SpiderPRO\\iOSDevice3.cs",
+              "RelativeToolTip": "SpiderPRO\\iOSDevice3.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAAAAAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T14:29:46.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "iOSDevice2.cs",
+              "DocumentMoniker": "C:\\Users\\MUHI\\Documents\\CustomToolA5\\New folder\\SpiderPRO\\iOSDevice2.cs",
+              "RelativeDocumentMoniker": "SpiderPRO\\iOSDevice2.cs",
+              "ToolTip": "C:\\Users\\MUHI\\Documents\\CustomToolA5\\New folder\\SpiderPRO\\iOSDevice2.cs",
+              "RelativeToolTip": "SpiderPRO\\iOSDevice2.cs",
+              "ViewState": "AgIAAJwCAAAAAAAAAAAAAAIAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T14:29:42.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NativeMethods.cs",
+              "DocumentMoniker": "C:\\Users\\MUHI\\Documents\\CustomToolA5\\New folder\\SpiderPRO\\NativeMethods.cs",
+              "RelativeDocumentMoniker": "SpiderPRO\\NativeMethods.cs",
+              "ToolTip": "C:\\Users\\MUHI\\Documents\\CustomToolA5\\New folder\\SpiderPRO\\NativeMethods.cs",
+              "RelativeToolTip": "SpiderPRO\\NativeMethods.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T14:29:49.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProcessKilledEventArgs.cs",
+              "DocumentMoniker": "C:\\Users\\MUHI\\Documents\\CustomToolA5\\New folder\\SpiderPRO\\ProcessKilledEventArgs.cs",
+              "RelativeDocumentMoniker": "SpiderPRO\\ProcessKilledEventArgs.cs",
+              "ToolTip": "C:\\Users\\MUHI\\Documents\\CustomToolA5\\New folder\\SpiderPRO\\ProcessKilledEventArgs.cs",
+              "RelativeToolTip": "SpiderPRO\\ProcessKilledEventArgs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T14:29:54.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MUHI\\Documents\\CustomToolA5\\New folder\\SpiderPRO\\Program.cs",
+              "RelativeDocumentMoniker": "SpiderPRO\\Program.cs",
+              "ToolTip": "C:\\Users\\MUHI\\Documents\\CustomToolA5\\New folder\\SpiderPRO\\Program.cs",
+              "RelativeToolTip": "SpiderPRO\\Program.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwAsAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T14:30:00.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Resources.cs",
+              "DocumentMoniker": "C:\\Users\\MUHI\\Documents\\CustomToolA5\\New folder\\SpiderPRO.Properties\\Resources.cs",
+              "RelativeDocumentMoniker": "SpiderPRO.Properties\\Resources.cs",
+              "ToolTip": "C:\\Users\\MUHI\\Documents\\CustomToolA5\\New folder\\SpiderPRO.Properties\\Resources.cs",
+              "RelativeToolTip": "SpiderPRO.Properties\\Resources.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T14:30:41.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DLLHelper.cs",
+              "DocumentMoniker": "C:\\Users\\MUHI\\Documents\\CustomToolA5\\New folder\\SpiderPRO.Helper\\DLLHelper.cs",
+              "RelativeDocumentMoniker": "SpiderPRO.Helper\\DLLHelper.cs",
+              "ToolTip": "C:\\Users\\MUHI\\Documents\\CustomToolA5\\New folder\\SpiderPRO.Helper\\DLLHelper.cs",
+              "RelativeToolTip": "SpiderPRO.Helper\\DLLHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T14:30:36.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Win32.cs",
+              "DocumentMoniker": "C:\\Users\\MUHI\\Documents\\CustomToolA5\\New folder\\SpiderPRO\\Win32.cs",
+              "RelativeDocumentMoniker": "SpiderPRO\\Win32.cs",
+              "ToolTip": "C:\\Users\\MUHI\\Documents\\CustomToolA5\\New folder\\SpiderPRO\\Win32.cs",
+              "RelativeToolTip": "SpiderPRO\\Win32.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T20:26:33.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProcessMonitor.cs",
+              "DocumentMoniker": "C:\\Users\\MUHI\\Documents\\CustomToolA5\\New folder\\SpiderPRO\\ProcessMonitor.cs",
+              "RelativeDocumentMoniker": "SpiderPRO\\ProcessMonitor.cs",
+              "ToolTip": "C:\\Users\\MUHI\\Documents\\CustomToolA5\\New folder\\SpiderPRO\\ProcessMonitor.cs",
+              "RelativeToolTip": "SpiderPRO\\ProcessMonitor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T14:29:57.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\MUHI\\Documents\\CustomToolA5\\New folder\\SpiderPRO\\Form2.cs",
+              "RelativeDocumentMoniker": "SpiderPRO\\Form2.cs",
+              "ToolTip": "C:\\Users\\MUHI\\Documents\\CustomToolA5\\New folder\\SpiderPRO\\Form2.cs [Design]",
+              "RelativeToolTip": "SpiderPRO\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T17:05:41.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\MUHI\\Documents\\CustomToolA5\\New folder\\SpiderPRO\\Form1.cs",
+              "RelativeDocumentMoniker": "SpiderPRO\\Form1.cs",
+              "ToolTip": "C:\\Users\\MUHI\\Documents\\CustomToolA5\\New folder\\SpiderPRO\\Form1.cs [Design]",
+              "RelativeToolTip": "SpiderPRO\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T14:28:30.509Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\MUHI\\Documents\\CustomToolA5\\New folder\\SpiderPRO\\Form1.cs",
+              "RelativeDocumentMoniker": "SpiderPRO\\Form1.cs",
+              "ToolTip": "C:\\Users\\MUHI\\Documents\\CustomToolA5\\New folder\\SpiderPRO\\Form1.cs",
+              "RelativeToolTip": "SpiderPRO\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T19:24:54.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Settings.cs",
+              "DocumentMoniker": "C:\\Users\\MUHI\\Documents\\CustomToolA5\\New folder\\SpiderPRO.Properties\\Settings.cs",
+              "RelativeDocumentMoniker": "SpiderPRO.Properties\\Settings.cs",
+              "ToolTip": "C:\\Users\\MUHI\\Documents\\CustomToolA5\\New folder\\SpiderPRO.Properties\\Settings.cs",
+              "RelativeToolTip": "SpiderPRO.Properties\\Settings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T17:13:46.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Dropshadow.cs",
+              "DocumentMoniker": "C:\\Users\\MUHI\\Documents\\CustomToolA5\\New folder\\SpiderPRO\\Dropshadow.cs",
+              "RelativeDocumentMoniker": "SpiderPRO\\Dropshadow.cs",
+              "ToolTip": "C:\\Users\\MUHI\\Documents\\CustomToolA5\\New folder\\SpiderPRO\\Dropshadow.cs",
+              "RelativeToolTip": "SpiderPRO\\Dropshadow.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T14:32:32.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Dropshadow.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\MUHI\\Documents\\CustomToolA5\\New folder\\SpiderPRO\\Dropshadow.cs",
+              "RelativeDocumentMoniker": "SpiderPRO\\Dropshadow.cs",
+              "ToolTip": "C:\\Users\\MUHI\\Documents\\CustomToolA5\\New folder\\SpiderPRO\\Dropshadow.cs [Design]",
+              "RelativeToolTip": "SpiderPRO\\Dropshadow.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T14:32:31.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DeviceData.cs",
+              "DocumentMoniker": "C:\\Users\\MUHI\\Documents\\CustomToolA5\\New folder\\SpiderPRO\\DeviceData.cs",
+              "RelativeDocumentMoniker": "SpiderPRO\\DeviceData.cs",
+              "ToolTip": "C:\\Users\\MUHI\\Documents\\CustomToolA5\\New folder\\SpiderPRO\\DeviceData.cs",
+              "RelativeToolTip": "SpiderPRO\\DeviceData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T14:29:35.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AFCFileType.cs",
+              "DocumentMoniker": "C:\\Users\\MUHI\\Documents\\CustomToolA5\\New folder\\SpiderPRO\\AFCFileType.cs",
+              "RelativeDocumentMoniker": "SpiderPRO\\AFCFileType.cs",
+              "ToolTip": "C:\\Users\\MUHI\\Documents\\CustomToolA5\\New folder\\SpiderPRO\\AFCFileType.cs",
+              "RelativeToolTip": "SpiderPRO\\AFCFileType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T14:29:26.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\MUHI\\Documents\\CustomToolA5\\New folder\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Properties\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\MUHI\\Documents\\CustomToolA5\\New folder\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "Properties\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T14:30:53.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "SpiderPRO",
+              "DocumentMoniker": "C:\\Users\\MUHI\\Documents\\CustomToolA5\\New folder\\SpiderPRO.csproj",
+              "RelativeDocumentMoniker": "SpiderPRO.csproj",
+              "ToolTip": "C:\\Users\\MUHI\\Documents\\CustomToolA5\\New folder\\SpiderPRO.csproj",
+              "RelativeToolTip": "SpiderPRO.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-09T17:12:43.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\MUHI\\Documents\\CustomToolA5\\New folder\\SpiderPRO\\Form2.cs",
+              "RelativeDocumentMoniker": "SpiderPRO\\Form2.cs",
+              "ToolTip": "C:\\Users\\MUHI\\Documents\\CustomToolA5\\New folder\\SpiderPRO\\Form2.cs",
+              "RelativeToolTip": "SpiderPRO\\Form2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T17:08:42.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Resources.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\MUHI\\Documents\\CustomToolA5\\New folder\\Properties\\Resources.Designer.cs",
+              "RelativeDocumentMoniker": "Properties\\Resources.Designer.cs",
+              "ToolTip": "C:\\Users\\MUHI\\Documents\\CustomToolA5\\New folder\\Properties\\Resources.Designer.cs",
+              "RelativeToolTip": "Properties\\Resources.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T17:18:18.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AgIAAGMNAAAAAAAAAAAhwH4NAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-12-09T17:12:00.637Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
