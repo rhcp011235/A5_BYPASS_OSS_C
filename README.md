@@ -45,12 +45,12 @@ A5 is a sophisticated tool designed to bypass iOS device activation locks. The a
 - [3uTools](http://www.3u.com/) (for device drivers)
 
 ### Supported Devices
-The application supports all devices compatible with the checkm8 exploit, including:
-- iPhone 4s through iPhone 16 series
-- iPad 2 through iPad Pro (M5)
-- iPad Air (through M3)
-- iPad mini (through A17 Pro)
-- iPod Touch 5th Generation
+The application supports the following devices
+- iPhone 4S
+- iPod Touch (5th generation)
+- iPad 2 — the debut device with the A5
+- iPad mini (1st generation) — used the same A5 as the iPad 
+- Apple TV (3rd generation) — featured the A5, with one core sometimes disabled
 
 ## Installation
 
