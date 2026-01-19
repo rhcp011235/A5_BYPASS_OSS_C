@@ -175,7 +175,8 @@ public class Form1 : Form
         this.MinimumSize = Size.Empty;
         this.Size = new Size(714, 386); 
 		APP_UUID();
-        this.CheckVersion();
+		// comment out version check
+        // this.CheckVersion();
 		ActivateButton.Hide();
         labelptios.Text = "There is not Device Connected";
         labelimeimeid.Text = "";
