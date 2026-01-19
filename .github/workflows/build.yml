@@ -1,4 +1,4 @@
-name: Build
+name: Build and Release
 
 on:
   push:
@@ -37,3 +37,15 @@ jobs:
         name: SpiderPRO-${{ matrix.platform }}
         path: bin/Release/net48/
         if-no-files-found: warn
+
+    - name: Create Release
+      if: github.event_name == 'push' && github.ref == 'refs/heads/main'
+      uses: softprops/action-gh-release@v2
+      with:
+        files: bin/Release/net48/*
+        name: Release A5 v1.0.2
+        body: 'Automated release from GitHub Actions build'
+        draft: false
+        prerelease: false
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

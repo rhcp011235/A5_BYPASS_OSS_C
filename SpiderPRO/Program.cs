@@ -23,7 +23,7 @@ internal
 		Application.SetCompatibleTextRenderingDefault(defaultValue: false);
 		if (!singleton.WaitOne(TimeSpan.Zero, exitContext: true))
 		{
-			MessageBox.Show("BobikA5 already running!", "[ERROR]", MessageBoxButtons.OK, MessageBoxIcon.Hand);
+			MessageBox.Show("A5 already running!", "[ERROR]", MessageBoxButtons.OK, MessageBoxIcon.Hand);
 			Process.GetCurrentProcess().Kill();
 		}
 		else

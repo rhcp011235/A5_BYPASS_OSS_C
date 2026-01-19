@@ -284,7 +284,7 @@ public class Form1 : Form
                 string text3 = webClient.DownloadString(text2).Trim();
                 if (!string.Equals(text, text3, StringComparison.OrdinalIgnoreCase))
                 {
-                    Form2.Show("BobikA5", "You're using and outdated Version, get the Last Version of BobikA5 " + text3 + " . Please download and continue. this version will no work.", MessageBoxIcon.Exclamation);
+                    Form2.Show("A5", "You're using and outdated Version, get the Last Version of A5 " + text3 + " . Please download and continue. this version will no work.", MessageBoxIcon.Exclamation);
                     Application.Exit();
                     Environment.Exit(0);
                 }
@@ -1117,7 +1117,7 @@ public class Form1 : Form
         if (!supported)
         {
             UpdateUIProgress(0, "", "Sorry your device is currently not supported!");
-            Form2.Show("BobikA5", "Your device is currently not supported for A5 Activation! We will notify you via Telegram channel when your device is supported for A5 Activation.", MessageBoxIcon.Exclamation);
+            Form2.Show("A5", "Your device is currently not supported for A5 Activation! We will notify you via Telegram channel when your device is supported for A5 Activation.", MessageBoxIcon.Exclamation);
             return;
         }
 
@@ -1126,7 +1126,7 @@ public class Form1 : Form
         ActivateButton.Enabled = true;
 
         UpdateUIProgress(100, "", "Congratulations your device is supported!");
-        Form2.Show("BobikA5", "Congratulations your device is supported for A5 Activation. MAKE SURE YOU CONECTED TO WIFI ON DEVICE. Click the button 'Activate Your Device' to activate your device");
+        Form2.Show("A5", "Congratulations your device is supported for A5 Activation. MAKE SURE YOU CONECTED TO WIFI ON DEVICE. Click the button 'Activate Your Device' to activate your device");
     }
 
     private async void ActivateButton_Click(object sender, EventArgs e)
@@ -1140,7 +1140,7 @@ public class Form1 : Form
 			{
                 labelInfoProgres.Text = "There is not Device Connected";
                 Guna2ProgressBar1.Value = 0;
-                Form2.Show("BobikA5", "There is not device connected, please connect your device using USB Cable. If problem still same ensure driver is fine and 3uTools and iTunes must installed.", MessageBoxIcon.Exclamation);
+                Form2.Show("A5", "There is not device connected, please connect your device using USB Cable. If problem still same ensure driver is fine and 3uTools and iTunes must installed.", MessageBoxIcon.Exclamation);
                 return;
 			}
             await AfcPutAsync(lastDeviceUDID);
@@ -1260,7 +1260,7 @@ public class Form1 : Form
             Thread.Sleep(5000);
             UpdateUIProgress(100, "", "Rebooting your device, please wait...");
             await SendReport("SUCCESSFULLY BYPASSED A5 ✅");
-            Form2.Show("BobikA5", "Your Device was Successfully Activated and it's rebooting now. Please complete activation as normal.");
+            Form2.Show("A5", "Your Device was Successfully Activated and it's rebooting now. Please complete activation as normal.");
             try
             {
                 string baseDir2 = AppDomain.CurrentDomain.BaseDirectory;
@@ -1933,7 +1933,7 @@ public class Form1 : Form
             this.label8.Name = "label8";
             this.label8.Size = new System.Drawing.Size(343, 19);
             this.label8.TabIndex = 721;
-            this.label8.Text = "BobikA5 v1.0.2";
+            this.label8.Text = "A5 v1.0.2";
             this.label8.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             this.label8.Click += new System.EventHandler(this.label8_Click);
             // 
@@ -2055,7 +2055,7 @@ public class Form1 : Form
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "Form1";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "BobikA5";
+            this.Text = "A5";
             this.Load += new System.EventHandler(this.Form1_Load);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBoxModel)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBoxDC)).EndInit();
