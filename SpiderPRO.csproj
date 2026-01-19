@@ -31,12 +31,6 @@
   <ItemGroup>
     <Reference Include="System.Core" />
     <Reference Include="System.Net.Http" />
-    <Reference Include="Guna.UI2">
-      <HintPath>..\VG12+ Tool\Guna.UI2.dll</HintPath>
-    </Reference>
-    <Reference Include="Newtonsoft.Json">
-      <HintPath>..\VG12+ Tool\Newtonsoft.Json.dll</HintPath>
-    </Reference>
   </ItemGroup>
   <ItemGroup>
     <Compile Update="Form1.Designer.cs">
