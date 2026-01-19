@@ -41,17 +41,18 @@ jobs:
     - name: Create Tag
       if: github.event_name == 'push' && github.ref == 'refs/heads/main'
       run: |
-        git tag v1.0.2
-        git push origin v1.0.2
+        $tag = "v1.0.2.$env:GITHUB_RUN_ID"
+        git tag $tag
+        git push origin $tag
 
     - name: Create Release
       if: github.event_name == 'push' && github.ref == 'refs/heads/main'
       uses: softprops/action-gh-release@v2
       with:
         files: bin/Release/net48/
-        name: Release A5 v1.0.2
+        name: Release A5 v1.0.2.${{ github.run_id }}
         body: 'Automated release from GitHub Actions build'
-        tag_name: v1.0.2
+        tag_name: v1.0.2.${{ github.run_id }}
         draft: false
         prerelease: false
       env:
