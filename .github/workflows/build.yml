@@ -29,11 +29,11 @@ jobs:
       run: nuget restore SpiderPRO.sln
 
     - name: Build
-      run: msbuild SpiderPRO.sln /p:Configuration=Release /p:Platform="${{ matrix.platform }}"
+      run: msbuild SpiderPRO.sln /p:Configuration=Release
 
     - name: Upload artifacts
       uses: actions/upload-artifact@v4
       with:
         name: SpiderPRO-${{ matrix.platform }}
-        path: bin/${{ matrix.platform }}/Release/
+        path: bin/Release/net48/
         if-no-files-found: warn
