@@ -45,11 +45,17 @@ jobs:
         git tag $tag
         git push origin $tag
 
+    - name: Download artifacts
+      uses: actions/download-artifact@v4
+      with:
+        name: SpiderPRO-${{ matrix.platform }}
+        path: release
+
     - name: Create Release
       if: github.event_name == 'push' && github.ref == 'refs/heads/main'
       uses: softprops/action-gh-release@v2
       with:
-        files: bin/Release/net48/
+        files: release/
         name: Release A5 v1.0.2.${{ github.run_id }}
         body: 'Automated release from GitHub Actions build'
         tag_name: v1.0.2.${{ github.run_id }}
