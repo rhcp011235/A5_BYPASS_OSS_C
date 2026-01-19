@@ -13,7 +13,7 @@ jobs:
 
     strategy:
       matrix:
-        platform: [x64, x86]
+        platform: [Any CPU]
 
     steps:
     - name: Checkout
@@ -29,7 +29,7 @@ jobs:
       run: nuget restore SpiderPRO.sln
 
     - name: Build
-      run: msbuild SpiderPRO.sln /p:Configuration=Release /p:Platform=${{ matrix.platform }}
+      run: msbuild SpiderPRO.sln /p:Configuration=Release /p:Platform="${{ matrix.platform }}"
 
     - name: Upload artifacts
       uses: actions/upload-artifact@v4
