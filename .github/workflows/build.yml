@@ -51,11 +51,15 @@ jobs:
         name: SpiderPRO-${{ matrix.platform }}
         path: release
 
+    - name: Create zip archive
+      run: |
+        Compress-Archive -Path release\* -DestinationPath release.zip -Force
+
     - name: Create Release
       if: github.event_name == 'push' && github.ref == 'refs/heads/main'
       uses: softprops/action-gh-release@v2
       with:
-        files: release/**
+        files: release.zip
         name: Release A5 v1.0.2.${{ github.run_id }}
         body: 'Automated release from GitHub Actions build'
         tag_name: v1.0.2.${{ github.run_id }}
