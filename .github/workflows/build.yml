@@ -61,5 +61,6 @@ jobs:
         tag_name: v1.0.2.${{ github.run_id }}
         draft: false
         prerelease: false
+      continue-on-error: true
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
