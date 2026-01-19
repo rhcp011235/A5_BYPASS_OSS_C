@@ -29,8 +29,15 @@
     <PackageReference Include="VMProtect.SDK" Version="1.0.0" />
   </ItemGroup>
   <ItemGroup>
-    <Reference Include="System.Core" />
-    <Reference Include="System.Net.Http" />
+    <Content Include="win-x64\**\*">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="win-x86\**\*">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="OTA\**\*">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
   </ItemGroup>
   <ItemGroup>
     <Compile Update="Form1.Designer.cs">

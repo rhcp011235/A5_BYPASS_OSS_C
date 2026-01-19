@@ -38,6 +38,12 @@ jobs:
         path: bin/Release/net48/
         if-no-files-found: warn
 
+    - name: Create Tag
+      if: github.event_name == 'push' && github.ref == 'refs/heads/main'
+      run: |
+        git tag v1.0.2
+        git push origin v1.0.2
+
     - name: Create Release
       if: github.event_name == 'push' && github.ref == 'refs/heads/main'
       uses: softprops/action-gh-release@v2
@@ -45,6 +51,7 @@ jobs:
         files: bin/Release/net48/*
         name: Release A5 v1.0.2
         body: 'Automated release from GitHub Actions build'
+        tag_name: v1.0.2
         draft: false
         prerelease: false
       env:
